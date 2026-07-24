@@ -1,0 +1,2117 @@
+[
+  {
+    "id": "japan",
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "coverImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "population": "123.5 million",
+    "language": "Japanese",
+    "currency": "Japanese Yen (JPY)",
+    "bestTime": "March to May",
+    "climate": "Temperate with four seasons",
+    "safety": "High",
+    "description": "Japan blends futuristic cities, timeless temples, and stunning seasonal landscapes into one unforgettable travel experience.",
+    "positivePoints": [
+      "Excellent public transport",
+      "Deep cultural heritage",
+      "Amazing cuisine and hospitality"
+    ],
+    "foods": [
+      "Sushi",
+      "Ramen",
+      "Tempura"
+    ],
+    "cities": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Mount Fuji",
+        "location": "Honshu",
+        "description": "An iconic volcanic peak that draws hikers and photographers from around the world.",
+        "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Fushimi Inari Taisha",
+        "location": "Kyoto",
+        "description": "A sacred shrine known for its thousands of vermilion torii gates.",
+        "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Cherry Blossom Festival",
+      "Gion Matsuri",
+      "Sapporo Snow Festival"
+    ]
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Bern",
+    "continent": "Europe",
+    "population": "8.8 million",
+    "language": "German, French, Italian, Romansh",
+    "currency": "Swiss Franc (CHF)",
+    "bestTime": "June to September",
+    "climate": "Alpine with cool summers and snowy winters",
+    "safety": "Very High",
+    "description": "Switzerland charms visitors with glittering lakes, alpine villages, and world-class rail journeys.",
+    "positivePoints": [
+      "Breathtaking alpine scenery",
+      "Efficient transport network",
+      "Exceptional quality of life"
+    ],
+    "foods": [
+      "Fondue",
+      "Rösti",
+      "Chocolate"
+    ],
+    "cities": [
+      "Zurich",
+      "Lucerne",
+      "Geneva"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Matterhorn",
+        "location": "Valais",
+        "description": "One of the most recognizable mountain peaks in the world.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Lake Lucerne",
+        "location": "Lucerne",
+        "description": "A postcard-perfect lake surrounded by mountains and charming towns.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1464822759844-d150baec1b7e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Montreux Jazz Festival",
+      "Basel Carnival",
+      "Fête de l’Escalade"
+    ]
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "coverImage": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "population": "84.4 million",
+    "language": "German",
+    "currency": "Euro (EUR)",
+    "bestTime": "May to September",
+    "climate": "Temperate with mild summers and cold winters",
+    "safety": "High",
+    "description": "Germany combines rich history, lively cities, and scenic countryside in one efficient and welcoming destination.",
+    "positivePoints": [
+      "Outstanding museums and history",
+      "Amazing castles and forests",
+      "Excellent food and beer culture"
+    ],
+    "foods": [
+      "Bratwurst",
+      "Sauerbraten",
+      "Pretzels"
+    ],
+    "cities": [
+      "Berlin",
+      "Munich",
+      "Hamburg"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Neuschwanstein Castle",
+        "location": "Bavaria",
+        "description": "A fairy-tale castle perched above the Bavarian Alps.",
+        "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Brandenburg Gate",
+        "location": "Berlin",
+        "description": "A historic landmark representing Germany's storied past and future.",
+        "image": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Oktoberfest",
+      "Berlin International Film Festival",
+      "Christmas Markets"
+    ]
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "flag": "🇫🇷",
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Paris",
+    "continent": "Europe",
+    "population": "68.4 million",
+    "language": "French",
+    "currency": "Euro (EUR)",
+    "bestTime": "April to June",
+    "climate": "Temperate with mild winters and warm summers",
+    "safety": "High",
+    "description": "France offers art, romance, countryside charm, and iconic landmarks at every turn.",
+    "positivePoints": [
+      "World-class cuisine",
+      "Rich history and art",
+      "Beautiful coastlines and vineyards"
+    ],
+    "foods": [
+      "Croissants",
+      "Baguettes",
+      "Ratatouille"
+    ],
+    "cities": [
+      "Paris",
+      "Nice",
+      "Lyon"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Eiffel Tower",
+        "location": "Paris",
+        "description": "The Eiffel Tower remains one of the world's most beloved monuments.",
+        "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "French Riviera",
+        "location": "Nice",
+        "description": "A glamorous stretch of coast with crystal-clear water and dramatic views.",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Bastille Day",
+      "Cannes Film Festival",
+      "Paris Fashion Week"
+    ]
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "coverImage": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Rome",
+    "continent": "Europe",
+    "population": "59.2 million",
+    "language": "Italian",
+    "currency": "Euro (EUR)",
+    "bestTime": "April to June",
+    "climate": "Mediterranean with sunny summers",
+    "safety": "High",
+    "description": "Italy is a feast for the senses, from ancient ruins and Renaissance art to coastal beauty and cuisine.",
+    "positivePoints": [
+      "Rich cultural landmarks",
+      "Delicious regional food",
+      "Stunning coastlines and islands"
+    ],
+    "foods": [
+      "Pizza",
+      "Pasta",
+      "Gelato"
+    ],
+    "cities": [
+      "Rome",
+      "Florence",
+      "Venice"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Colosseum",
+        "location": "Rome",
+        "description": "An enduring symbol of ancient Roman engineering and history.",
+        "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Venice Canals",
+        "location": "Venice",
+        "description": "A romantic maze of waterways and historic architecture.",
+        "image": "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1531572753322-ad063cecc140?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Carnival of Venice",
+      "Venice Film Festival",
+      "Palio di Siena"
+    ]
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "coverImage": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "population": "5.5 million",
+    "language": "Norwegian",
+    "currency": "Norwegian Krone (NOK)",
+    "bestTime": "May to September",
+    "climate": "Cool maritime climate with dramatic seasons",
+    "safety": "Very High",
+    "description": "Norway invites travelers to discover fjords, northern lights, and peaceful Scandinavian design.",
+    "positivePoints": [
+      "Spectacular fjords",
+      "Excellent sustainability focus",
+      "Quiet, scenic adventures"
+    ],
+    "foods": [
+      "Smoked Salmon",
+      "Krumkake",
+      "Brown Cheese"
+    ],
+    "cities": [
+      "Oslo",
+      "Bergen",
+      "Tromsø"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Geirangerfjord",
+        "location": "Møre og Romsdal",
+        "description": "A UNESCO-listed fjord renowned for its dramatic cliffs and waterfalls.",
+        "image": "https://images.unsplash.com/photo-1468413253725-0d5181091126?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Northern Lights",
+        "location": "Tromsø",
+        "description": "A dazzling natural light display best seen during winter months.",
+        "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1468413253725-0d5181091126?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Bergen International Festival",
+      "Oslo Jazz Festival",
+      "Sami Easter Festival"
+    ]
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "coverImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "population": "40.1 million",
+    "language": "English and French",
+    "currency": "Canadian Dollar (CAD)",
+    "bestTime": "June to September",
+    "climate": "Varied climates from coast to coast",
+    "safety": "High",
+    "description": "Canada offers vast wilderness, colorful cities, and some of the most scenic road trips on earth.",
+    "positivePoints": [
+      "Natural beauty at scale",
+      "Friendly residents",
+      "Excellent outdoor experiences"
+    ],
+    "foods": [
+      "Poutine",
+      "Maple Syrup",
+      "Butter Tarts"
+    ],
+    "cities": [
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Banff National Park",
+        "location": "Alberta",
+        "description": "A spectacular alpine park with turquoise lakes and rugged peaks.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Niagara Falls",
+        "location": "Ontario",
+        "description": "One of the most powerful and beautiful waterfalls in the world.",
+        "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Calgary Stampede",
+      "Montreal Jazz Festival",
+      "Toronto International Film Festival"
+    ]
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "coverImage": "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Canberra",
+    "continent": "Australia",
+    "population": "26.9 million",
+    "language": "English",
+    "currency": "Australian Dollar (AUD)",
+    "bestTime": "September to November",
+    "climate": "Mostly sunny and dry with varied climates",
+    "safety": "High",
+    "description": "Australia offers golden beaches, the Great Barrier Reef, and vast outback landscapes.",
+    "positivePoints": [
+      "Incredible coastlines",
+      "Unique wildlife",
+      "Great outdoor lifestyle"
+    ],
+    "foods": [
+      "Vegemite",
+      "Meat Pie",
+      "Pavlova"
+    ],
+    "cities": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Great Barrier Reef",
+        "location": "Queensland",
+        "description": "A living treasure of coral and marine life visible from above or below the sea.",
+        "image": "https://plus.unsplash.com/premium_photo-1661841439995-1706237c83dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "name": "Sydney Opera House",
+        "location": "Sydney",
+        "description": "A striking architectural icon on the edge of the harbor.",
+        "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Sydney New Year’s Eve",
+      "Melbourne Cup",
+      "Vivid Sydney"
+    ]
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "flag": "🇮🇳",
+    "coverImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=80",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "population": "1.4 billion",
+    "language": "Hindi and English",
+    "currency": "Indian Rupee (INR)",
+    "bestTime": "October to March",
+    "climate": "Varied from tropical to alpine",
+    "safety": "Moderate",
+    "description": "India captivates travelers with colorful traditions, spiritual landmarks, and extraordinary diversity.",
+    "positivePoints": [
+      "Vibrant culture and festivals",
+      "Historic monuments",
+      "Exceptional regional cuisine"
+    ],
+    "foods": [
+      "Biryani",
+      "Butter Chicken",
+      "Masala Dosa"
+    ],
+    "cities": [
+      "Delhi",
+      "Jaipur",
+      "Mumbai"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Taj Mahal",
+        "location": "Agra",
+        "description": "A timeless marble monument celebrated as one of the world's most beautiful buildings.",
+        "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Varanasi Ghats",
+        "location": "Varanasi",
+        "description": "Sacred riverfront steps where rituals and life unfold together.",
+        "image": "https://images.pexels.com/photos/21047821/pexels-photo-21047821.jpeg"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/5480518/pexels-photo-5480518.jpeg",
+      "https://images.pexels.com/photos/33605293/pexels-photo-33605293.jpeg"
+    ],
+    "festivals": [
+      "Diwali",
+      "Holi",
+      "Navratri"
+    ]
+  },
+  {
+    "id": "united-kingdom",
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "coverImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1200&q=80",
+    "capital": "London",
+    "continent": "Europe",
+    "population": "67.7 million",
+    "language": "English",
+    "currency": "Pound Sterling (GBP)",
+    "bestTime": "May to September",
+    "climate": "Mild maritime climate",
+    "safety": "High",
+    "description": "The United Kingdom offers royal history, dramatic landscapes, and vibrant city culture in equal measure.",
+    "positivePoints": [
+      "Historic landmarks",
+      "World-class museums",
+      "Rich literary and cultural traditions"
+    ],
+    "foods": [
+      "Fish and Chips",
+      "Shepherd's Pie",
+      "Sunday Roast"
+    ],
+    "cities": [
+      "London",
+      "Edinburgh",
+      "Manchester"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Stonehenge",
+        "location": "Wiltshire",
+        "description": "A prehistoric monument filled with mystery and ancient symbolism.",
+        "image": "https://images.pexels.com/photos/36056478/pexels-photo-36056478.jpeg"
+      },
+      {
+        "name": "Edinburgh Castle",
+        "location": "Edinburgh",
+        "description": "A commanding fortress overlooking the historic Scottish capital.",
+        "image": "https://images.pexels.com/photos/34533067/pexels-photo-34533067.jpeg"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=900&q=80",
+      "https://images.pexels.com/photos/32704706/pexels-photo-32704706.jpeg"
+    ],
+    "festivals": [
+      "Notting Hill Carnival",
+      "Edinburgh Festival Fringe",
+      "Trooping the Colour"
+    ]
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "coverImage": "https://images.unsplash.com/photo-1623613229313-5e59f698526f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY2fHx0dXJrZXl8ZW58MHwwfDB8fHww",
+    "capital": "Ankara",
+    "continent": "Europe and Asia",
+    "population": "86.8 million",
+    "language": "Turkish",
+    "currency": "Turkish Lira (TRY)",
+    "bestTime": "April to June",
+    "climate": "Varied, from Mediterranean along the coast to continental inland",
+    "safety": "Moderate",
+    "description": "Turkey is a transcontinental country known for its rich history, lively bazaars, coastal beauty, and unique blend of East and West.",
+    "positivePoints": [
+      "Rich history and ancient landmarks",
+      "Beautiful coastlines and scenic landscapes",
+      "Delicious food and vibrant culture"
+    ],
+    "foods": [
+      "Kebabs",
+      "Baklava",
+      "Simit"
+    ],
+    "cities": [
+      "Istanbul",
+      "Ankara",
+      "Izmir"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Hagia Sophia",
+        "location": "Istanbul",
+        "description": "A world-famous monument that reflects centuries of Byzantine and Ottoman history.",
+        "image": "https://images.unsplash.com/photo-1683874350903-8151d987fef4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGFnaWElMjBTb3BoaWF8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "name": "Cappadocia",
+        "location": "Central Anatolia",
+        "description": "A surreal landscape of fairy chimneys, cave dwellings, and hot air balloons.",
+        "image": "https://images.unsplash.com/photo-1652854762776-8adad2ff3dd9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fENhcHBhZG9jaWF8ZW58MHx8MHx8fDA%3D"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1567994200289-a98293394b69?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHR1cmtleXxlbnwwfDB8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1690921288288-fbfd0869bf09?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHR1cmtleXxlbnwwfDB8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1578087543945-3b827394009e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fHR1cmtleXxlbnwwfDB8MHx8fDA%3D"
+    ],
+    "festivals": [
+      "Istanbul Film Festival",
+      "Kirkpinar Oil Wrestling",
+      "Republic Day"
+    ]
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "coverImage": "https://images.unsplash.com/photo-1592172578991-51bac865e437?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fG1vcm9jY298ZW58MHwwfDB8fHww",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "population": "37 million",
+    "language": "Arabic, Berber (Amazigh), French",
+    "currency": "Moroccan Dirham (MAD)",
+    "bestTime": "March to May, September to November",
+    "climate": "Mediterranean along the coast, desert in the south, and mountainous regions inland",
+    "safety": "Moderate to High",
+    "description": "Morocco fascinates travelers with its blend of Arab, Berber, and European cultures, vibrant souks, desert landscapes, and historic cities.",
+    "positivePoints": [
+      "Rich cultural heritage",
+      "Colorful markets and crafts",
+      "Diverse landscapes from mountains to desert"
+    ],
+    "foods": [
+      "Tagine",
+      "Couscous",
+      "Pastilla"
+    ],
+    "cities": [
+      "Marrakech",
+      "Casablanca",
+      "Fes",
+      "Rabat"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Medina of Marrakech",
+        "location": "Marrakech",
+        "description": "A bustling maze of souks, palaces, and gardens showcasing Morocco’s vibrant culture.",
+        "image": "https://www.clickexcursions.co.uk/storage/excursions/June2022/9JVxSePAHAAf7SruQMH1.jpg"
+      },
+      {
+        "name": "Chefchaouen",
+        "location": "Rif Mountains",
+        "description": "The famous 'Blue City' with striking blue-painted streets and houses.",
+        "image": "https://bbktours.com/wp-content/uploads/2024/02/Things-to-do-in-Chefchaouen-181.jpg"
+      },
+      {
+        "name": "Sahara Desert",
+        "location": "Merzouga",
+        "description": "Golden dunes offering camel treks, starry skies, and unforgettable desert experiences.",
+        "image": "https://plus.unsplash.com/premium_photo-1661962564466-2fc5a2b5fba8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fFNhaGFyYSUyMERlc2VydHxlbnwwfDB8MHx8fDA%3D"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1479646398076-8f15c2e587a7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fG1vcm9jY298ZW58MHwwfDB8fHww",
+      "https://images.unsplash.com/photo-1519594445471-0e5f86b3fb09?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1vcm9jY298ZW58MHwwfDB8fHww",
+      "https://plus.unsplash.com/premium_photo-1697729885210-41d99b8a8688?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fG1vcm9jY298ZW58MHwwfDB8fHww"
+    ],
+    "festivals": [
+      "Marrakech Popular Arts Festival",
+      "Fez Festival of World Sacred Music",
+      "Tan-Tan Moussem"
+    ]
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "coverImage": "https://images.unsplash.com/photo-1640130958318-7e9ae39bcf6f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fG1leGljb3xlbnwwfDB8MHx8fDA%3D",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "population": "126 million",
+    "language": "Spanish",
+    "currency": "Mexican Peso (MXN)",
+    "bestTime": "November to April",
+    "climate": "Varied: tropical in the south, desert in the north, temperate in central regions",
+    "safety": "Moderate",
+    "description": "Mexico captivates travelers with its ancient civilizations, vibrant traditions, stunning beaches, and world-famous cuisine.",
+    "positivePoints": [
+      "Rich cultural and historical heritage",
+      "Delicious and diverse food",
+      "Beautiful coastlines and natural wonders"
+    ],
+    "foods": [
+      "Tacos",
+      "Tamales",
+      "Mole"
+    ],
+    "cities": [
+      "Mexico City",
+      "Cancún",
+      "Guadalajara",
+      "Oaxaca"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Chichen Itza",
+        "location": "Yucatán",
+        "description": "A UNESCO World Heritage site and one of the New Seven Wonders of the World, showcasing Mayan civilization.",
+        "image": "https://images.unsplash.com/photo-1736053531635-6b02d8a0572a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGNoaWNoZW4lMjBpdHphfGVufDB8MHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Teotihuacan",
+        "location": "Near Mexico City",
+        "description": "An ancient city with massive pyramids of the Sun and Moon.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBAxatVuqkiOOir4Ka3dn4PtdSamFaRtwrcCanNICQkg&s=10"
+      },
+      {
+        "name": "Cancún Beaches",
+        "location": "Quintana Roo",
+        "description": "Famous for turquoise waters, white sand, and vibrant nightlife.",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1660060661014-6a490bb5dbd1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfF_YoeOl_Woo3fIaSASxfYb1SCQr3u78PSBiOZjrvLw&s=10",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Day of the Dead",
+      "Guelaguetza",
+      "Independence Day"
+    ]
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "coverImage": "https://kimcmarket.com/cdn/shop/articles/korea-april-hanok-blossom-hero-adjusted_b27fbd7b-021c-458a-a2a2-c0b37e8c0454.jpg?v=1775467661&width=533",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "population": "52 million",
+    "language": "Korean",
+    "currency": "South Korean Won (KRW)",
+    "bestTime": "March to May, September to November",
+    "climate": "Temperate with four distinct seasons",
+    "safety": "High",
+    "description": "South Korea blends ancient traditions with cutting-edge technology, offering vibrant cities, serene temples, and stunning natural landscapes.",
+    "positivePoints": [
+      "Advanced technology and infrastructure",
+      "Rich cultural heritage",
+      "Delicious cuisine and K-pop culture"
+    ],
+    "foods": [
+      "Kimchi",
+      "Bibimbap",
+      "Bulgogi"
+    ],
+    "cities": [
+      "Seoul",
+      "Busan",
+      "Incheon",
+      "Jeju"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Gyeongbokgung Palace",
+        "location": "Seoul",
+        "description": "A grand royal palace from the Joseon dynasty, symbolizing Korea’s history and culture.",
+        "image": "https://plus.unsplash.com/premium_photo-1661948404806-391a240d6d40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3llb25nYm9rZ3VuZyUyMHBhbGFjZXxlbnwwfDB8MHx8fDA%3D"
+      },
+      {
+        "name": "Jeju Island",
+        "location": "Jeju Province",
+        "description": "A volcanic island famous for beaches, waterfalls, and unique lava formations.",
+        "image": "https://plus.unsplash.com/premium_photo-1668883189361-9c754861dbd6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8amVqdSUyMGlzbGFuZHxlbnwwfDB8MHx8fDA%3D"
+      },
+      {
+        "name": "N Seoul Tower",
+        "location": "Seoul",
+        "description": "An iconic observation tower offering panoramic views of the city skyline.",
+        "image": "https://ik.imagekit.io/tvlk/blog/2024/12/shutterstock_2421257453.jpg?tr=q-70,c-at_max,w-1000,h-600"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1485186337913-a42c84d7ffcc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNlb3VsfGVufDB8MHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1583833008338-31a6657917ab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNlb3VsfGVufDB8MHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1590437084089-9f5ae1500176?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHNvdXRoLWtvcmVhfGVufDB8MHwwfHx8MA%3D%3D"
+    ],
+    "festivals": [
+      "Boryeong Mud Festival",
+      "Lantern Festival",
+      "Cherry Blossom Festival"
+    ]
+  },
+  {
+    "id": "malaysia",
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "coverImage": "https://plus.unsplash.com/premium_photo-1677829177642-30def98b0963?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fG1hbGF5c2lhfGVufDB8MHwwfHx8MA%3D%3D",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "population": "34 million",
+    "language": "Malay (Bahasa Malaysia), English, Chinese, Tamil",
+    "currency": "Malaysian Ringgit (MYR)",
+    "bestTime": "March to October",
+    "climate": "Tropical, hot and humid year-round with monsoon seasons",
+    "safety": "High",
+    "description": "Malaysia offers a vibrant mix of modern cities, lush rainforests, idyllic islands, and diverse cultures blending Malay, Chinese, and Indian traditions.",
+    "positivePoints": [
+      "Multicultural heritage",
+      "Beautiful beaches and islands",
+      "Delicious street food"
+    ],
+    "foods": [
+      "Nasi Lemak",
+      "Satay",
+      "Laksa"
+    ],
+    "cities": [
+      "Kuala Lumpur",
+      "Penang",
+      "Malacca",
+      "Kota Kinabalu"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Petronas Twin Towers",
+        "location": "Kuala Lumpur",
+        "description": "Iconic skyscrapers symbolizing Malaysia’s modern growth and architectural brilliance.",
+        "image": "https://images.unsplash.com/photo-1566914447826-bf04e54bf1be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFsYXlzaWF8ZW58MHwwfDB8fHww"
+      },
+      {
+        "name": "Langkawi Islands",
+        "location": "Kedah",
+        "description": "A tropical paradise with beaches, mangroves, and duty-free shopping.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Batu Caves",
+        "location": "Selangor",
+        "description": "A Hindu temple complex set within limestone caves, famous for its giant golden statue.",
+        "image": "https://images.unsplash.com/photo-1589304122321-2344bad22557?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1580168381183-e357ced1371d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fG1hbGF5c2lhfGVufDB8MHwwfHx8MA%3D%3D",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlS_RujsdlrNi870w594H74PO4Dh4XP5rT-ut08ZiSIA&s",
+      "https://images.unsplash.com/photo-1731363120271-03eddb7c3de3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fEJhdHUlMjBDYXZlc3xlbnwwfDB8MHx8fDA%3D"
+    ],
+    "festivals": [
+      "Thaipusam",
+      "George Town Festival",
+      "Malaysia Day"
+    ]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "flag": "🇸🇬",
+    "coverImage": "https://images.unsplash.com/photo-1542114740389-9b46fb1e5be7?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "population": "5.9 million",
+    "language": "English, Malay, Mandarin, Tamil",
+    "currency": "Singapore Dollar (SGD)",
+    "bestTime": "February to April",
+    "climate": "Tropical rainforest climate, hot and humid year-round",
+    "safety": "Very High",
+    "description": "Singapore dazzles with its futuristic skyline, lush gardens, diverse food culture, and efficient urban living.",
+    "positivePoints": [
+      "World-class infrastructure",
+      "Multicultural society",
+      "Safe and clean environment"
+    ],
+    "foods": [
+      "Hainanese Chicken Rice",
+      "Laksa",
+      "Chili Crab"
+    ],
+    "cities": [
+      "Singapore"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Marina Bay Sands",
+        "location": "Marina Bay",
+        "description": "An iconic resort complex with a rooftop infinity pool and panoramic city views.",
+        "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFyaW5hJTIwQmF5JTIwU2FuZHN8ZW58MHwwfDB8fHww"
+      },
+      {
+        "name": "Gardens by the Bay",
+        "location": "Marina Bay",
+        "description": "Futuristic gardens featuring Supertree structures and biodomes.",
+        "image": "https://images.unsplash.com/photo-1552415274-73ad7198cb93?q=80&w=1634&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "name": "Sentosa Island",
+        "location": "Southern Singapore",
+        "description": "A leisure destination with beaches, theme parks, and resorts.",
+        "image": "https://images.unsplash.com/photo-1662385834577-0c6628d57eab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2VudG9zYSUyMGlzbGFuZHxlbnwwfDB8MHx8fDA%3D"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1621395731232-ca7108eec330?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpbmF0b3duJTIwc2luZ2Fwb3JlfGVufDB8MHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1699119179445-7200c818fb10?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNoaW5hdG93biUyMHNpbmdhcG9yZXxlbnwwfDB8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1617710135795-a42d57c7e85e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "festivals": [
+      "Singapore National Day Parade",
+      "Chingay Parade",
+      "Singapore Food Festival"
+    ]
+  },
+  {
+    "id": "indonesia",
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "coverImage": "https://media-cdn.tripadvisor.com/media/photo-s/1c/f0/46/e8/indonesia-officially.jpg",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "population": "278 million",
+    "language": "Indonesian (Bahasa Indonesia)",
+    "currency": "Indonesian Rupiah (IDR)",
+    "bestTime": "May to September",
+    "climate": "Tropical, hot and humid with wet and dry seasons",
+    "safety": "Moderate to High",
+    "description": "Indonesia amazes travelers with its thousands of islands, diverse cultures, lush rainforests, and world-famous beaches.",
+    "positivePoints": [
+      "Rich cultural diversity",
+      "Stunning natural landscapes",
+      "Affordable travel experiences"
+    ],
+    "foods": [
+      "Nasi Goreng",
+      "Satay",
+      "Rendang"
+    ],
+    "cities": [
+      "Jakarta",
+      "Bali (Denpasar)",
+      "Yogyakarta",
+      "Bandung"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Borobudur Temple",
+        "location": "Central Java",
+        "description": "The world’s largest Buddhist temple, a UNESCO World Heritage site with intricate stone carvings.",
+        "image": "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGJvcm9idWR1ciUyMHRlbXBsZXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Bali",
+        "location": "Bali Island",
+        "description": "A tropical paradise famous for beaches, rice terraces, temples, and vibrant nightlife.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6HxHAg_BC1rYwhq-ePrvXg1ISAtQQHFORz7PDemYzA&s=10"
+      },
+      {
+        "name": "Komodo National Park",
+        "location": "East Nusa Tenggara",
+        "description": "Home to the famous Komodo dragons and pristine diving spots.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSda7n-w-dLcDfr4GMDoeGqeRejj2Uoyq9Hqp9dix8asA&s=10"
+      }
+    ],
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAe6sdfVa-YENxyGDNIBB1wwgtmyK_x2XhB1B-WhxZ2w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCynwqqHVK3WtabvkjMtLwqfCLrALzP6nkVeJ0vRcJA&s=10",
+      "https://static2.tripoto.com/media/filter/tst/img/1/SpotDocument/1497713847_1497713760_1497713620_1487015692_1487015673_12183714455_1d32a16b9d_k.jpg.webp"
+    ],
+    "festivals": [
+      "Bali Arts Festival",
+      "Nyepi",
+      "Jakarta Fashion Week"
+    ]
+  },
+  {
+    "id": "vietnam",
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "coverImage": "https://i.ytimg.com/vi/k8m0SaGQ_1c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCGMsdXA_sPxKh38pj0zMcUuconRQ",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "population": "100 million",
+    "language": "Vietnamese",
+    "currency": "Vietnamese Dong (VND)",
+    "bestTime": "March to May, September to November",
+    "climate": "Tropical monsoon climate with regional variations",
+    "safety": "Moderate to High",
+    "description": "Vietnam enchants travelers with its lush landscapes, ancient temples, bustling cities, and world-renowned cuisine.",
+    "positivePoints": [
+      "Rich history and culture",
+      "Beautiful natural scenery",
+      "Affordable travel destination"
+    ],
+    "foods": [
+      "Pho",
+      "Banh Mi",
+      "Spring Rolls"
+    ],
+    "cities": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hoi An"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Ha Long Bay",
+        "location": "Quang Ninh Province",
+        "description": "A UNESCO World Heritage site famous for emerald waters and limestone karsts.",
+        "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_863/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/yqfy8dly9l56fcphxcyk/PhoenixDayCruise:HaLongBay,SungSot,TiTop.jpg"
+      },
+      {
+        "name": "Hoi An Ancient Town",
+        "location": "Quang Nam Province",
+        "description": "A well-preserved trading port with lantern-lit streets and historic architecture.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Fw53hjjBm9dbNJIHXEdWuhFgYuuak-EzzEb-CfoSvg&s=10"
+      },
+      {
+        "name": "Cu Chi Tunnels",
+        "location": "Near Ho Chi Minh City",
+        "description": "An underground network used during the Vietnam War, now open for exploration.",
+        "image": "https://vietnamdiscovery.com/wp-content/uploads/2019/10/Cu-Chi-tunnels.jpg"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1697850084120-4896a446a04d?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ28zQHNz64T-nC-buKPdN_iBwO1jS4w8I_zue2y_5uLcX7OHS3bH0ShLof&s=10",
+      "https://images.unsplash.com/photo-1776236075225-c869ccbfa848?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTF8fGhvaSUyMGFuJTIwYW5jaWVudCUyMHRvd258ZW58MHwwfDB8fHww"
+    ],
+    "festivals": [
+      "Tet Festival",
+      "Mid-Autumn Festival",
+      "Hue Festival"
+    ]
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "coverImage": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "population": "5.2 million",
+    "language": "English, Māori",
+    "currency": "New Zealand Dollar (NZD)",
+    "bestTime": "December to March",
+    "climate": "Temperate with mild summers and cool winters",
+    "safety": "Very High",
+    "description": "New Zealand captivates travelers with its breathtaking landscapes, Maori culture, adventure sports, and cinematic scenery.",
+    "positivePoints": [
+      "Spectacular natural beauty",
+      "Adventure tourism",
+      "Friendly and welcoming culture"
+    ],
+    "foods": [
+      "Hāngi",
+      "Pavlova",
+      "Lamb Roast"
+    ],
+    "cities": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Milford Sound",
+        "location": "Fiordland National Park",
+        "description": "A dramatic fjord with towering cliffs, waterfalls, and wildlife, often called the 'eighth wonder of the world'.",
+        "image": "https://images.unsplash.com/photo-1554710565-1a60a70ce204?q=80&w=1743&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "name": "Rotorua",
+        "location": "North Island",
+        "description": "Known for geothermal activity, Maori cultural experiences, and hot springs.",
+        "image": "https://media.istockphoto.com/id/2155881836/photo/dramatic-geysers-of-te-puia-rotorua-geothermal-park-new-zealand.jpg?s=612x612&w=0&k=20&c=73ikn0X5XwAvEmiXJT4MxgXreo9tbpYqPxjpCANEGSI="
+      },
+      {
+        "name": "Mount Cook (Aoraki)",
+        "location": "South Island",
+        "description": "New Zealand’s highest peak, popular for hiking, climbing, and stargazing.",
+        "image": "https://www.doc.govt.nz/thumbs/hero/contentassets/494a19bd09fd401d9ebb1efff04cde38/aoraki-mt-cook-sealy-tarns-hero-1920.jpg"
+      }
+    ],
+    "gallery": [
+      "https://images.trvl-media.com/place/6052807/c29886bf-32ad-4731-8095-65e5c21e486d.jpg",
+      "https://www.zicasso.com/static/1613b7fe4e02309dcd902b3f19405262/508cd/1613b7fe4e02309dcd902b3f19405262.jpg",
+      "https://resources.thomascook.in/images/holidays/sightSeeing/nz850.jpg"
+    ],
+    "festivals": [
+      "Matariki",
+      "Auckland Lantern Festival",
+      "Wellington Jazz Festival"
+    ]
+  },
+  {
+    "id": "thailand",
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "coverImage": "https://images.ctfassets.net/wv75stsetqy3/6VtpGYd10TbtTPJtElL1N2/698eb84b156b9ce2f6263daf221c96d1/Get_Off_The_Beaten_Track.jpg?q=60&fit=fill&fm=webp",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "population": "71 million",
+    "language": "Thai",
+    "currency": "Thai Baht (THB)",
+    "bestTime": "November to February",
+    "climate": "Tropical, hot and humid with monsoon seasons",
+    "safety": "High",
+    "description": "Thailand delights travelers with golden temples, tropical beaches, bustling markets, and a warm, welcoming culture.",
+    "positivePoints": [
+      "Rich cultural traditions",
+      "World-famous cuisine",
+      "Beautiful islands and beaches"
+    ],
+    "foods": [
+      "Pad Thai",
+      "Tom Yum Soup",
+      "Green Curry"
+    ],
+    "cities": [
+      "Bangkok",
+      "Chiang Mai",
+      "Phuket",
+      "Pattaya"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Grand Palace",
+        "location": "Bangkok",
+        "description": "A dazzling complex of royal buildings and temples, including the Emerald Buddha.",
+        "image": "https://images.unsplash.com/photo-1585151723477-b3576e4fa685?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdyYW5kJTIwcGFsYWNlJTIwYmFuZ2tva3xlbnwwfDB8MHx8fDA%3D"
+      },
+      {
+        "name": "Phi Phi Islands",
+        "location": "Krabi Province",
+        "description": "Famous for turquoise waters, limestone cliffs, and vibrant marine life.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/2c/dd/25/05/enjoying-swimming-pools.jpg"
+      },
+      {
+        "name": "Chiang Mai Temples",
+        "location": "Chiang Mai",
+        "description": "Historic temples nestled in the mountains, offering a glimpse of northern Thai culture.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2Wvi4geeW5EvdirHKrRh7MbOoqqpglTQ9KW0ZyYc7Q&s=10"
+      }
+    ],
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy9juyF9tOGPh8TzFzE03WA13ulOGh-bWSrKlEQtAzWw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRadBx9_IBn3n0hmvSAtFz5Yx-MVvLgORdrB86kmhujsw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8OlAHrFwxOcpDHmA0iAExRg9T7POw3mt9XrPySSJQw&s=10"
+    ],
+    "festivals": [
+      "Songkran",
+      "Loy Krathong",
+      "Phi Ta Khon"
+    ]
+  },
+  {
+    "id": "cambodia",
+    "name": "Cambodia",
+    "flag": "🇰🇭",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqKj9LAY_lnD2c8hrwP6Uml5qjErvigskDh1gg_Lwglw&s=10",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "population": "17 million",
+    "language": "Khmer",
+    "currency": "Cambodian Riel (KHR)",
+    "bestTime": "November to March",
+    "climate": "Tropical, hot and humid with monsoon rains",
+    "safety": "Moderate",
+    "description": "Cambodia captivates visitors with its ancient temples, vibrant culture, and resilient spirit, offering both history and natural beauty.",
+    "positivePoints": [
+      "World-famous Angkor temples",
+      "Rich cultural traditions",
+      "Affordable travel destination"
+    ],
+    "foods": [
+      "Amok",
+      "Lok Lak",
+      "Nom Banh Chok"
+    ],
+    "cities": [
+      "Phnom Penh",
+      "Siem Reap",
+      "Battambang",
+      "Sihanoukville"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Angkor Wat",
+        "location": "Siem Reap",
+        "description": "The largest religious monument in the world, a UNESCO site and symbol of Cambodia.",
+        "image": "https://cdn.britannica.com/49/94449-050-ECB0E7C2/Angkor-Wat-temple-complex-Cambodia.jpg"
+      },
+      {
+        "name": "Royal Palace",
+        "location": "Phnom Penh",
+        "description": "A stunning complex of buildings serving as the royal residence of the King of Cambodia.",
+        "image": "https://www.novotelphnompenhbkk1.com/wp-content/uploads/sites/53/2023/08/royal-palace-1920x1200.jpg"
+      },
+      {
+        "name": "Tonlé Sap Lake",
+        "location": "Central Cambodia",
+        "description": "Southeast Asia’s largest freshwater lake, known for floating villages and biodiversity.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPiucKIKwH8V0lHlPJWe_sFydvRXxcgC0AIxQMktZSD-iF8wxkcgEX4M&s=10"
+      }
+    ],
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpNf4eXHmUUdlrzEikb75xsrbPE_15H8aEX_bpPg0M0A&s=10",
+      "https://images.unsplash.com/photo-1665376620694-fc0c4bab7294?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Um95YWwlMjBQYWxhY2V8ZW58MHwwfDB8fHww",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccpFfd9tDpIPy79aTH4_fwSstFfMavKV35fLFOKJ8XA&s=10"
+    ],
+    "festivals": [
+      "Water Festival",
+      "Khmer New Year",
+      "Pchum Ben"
+    ]
+  },
+  {
+    "id": "hong-kong",
+    "name": "Hong Kong",
+    "flag": "🇭🇰",
+    "coverImage": "https://plus.unsplash.com/premium_photo-1675826460422-e39481fae224?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhvbmclMjBrb25nfGVufDB8MHwwfHx8MA%3D%3D",
+    "capital": "Hong Kong (Special Administrative Region)",
+    "continent": "Asia",
+    "population": "7.5 million",
+    "language": "Chinese (Cantonese), English",
+    "currency": "Hong Kong Dollar (HKD)",
+    "bestTime": "October to December",
+    "climate": "Subtropical with hot, humid summers and mild winters",
+    "safety": "High",
+    "description": "Hong Kong dazzles with its iconic skyline, bustling harbor, vibrant street markets, and a unique blend of East and West.",
+    "positivePoints": [
+      "Global financial hub",
+      "Rich cultural fusion",
+      "Efficient public transport"
+    ],
+    "foods": [
+      "Dim Sum",
+      "Roast Goose",
+      "Egg Tarts"
+    ],
+    "cities": [
+      "Hong Kong Island",
+      "Kowloon",
+      "New Territories"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Victoria Peak",
+        "location": "Hong Kong Island",
+        "description": "Offers panoramic views of the skyline, harbor, and surrounding islands.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoxOynD2R3ICSIbTX5lOZDdPwfD4CrCsf3a2TloI-8ib-O13h67-Vvz_PU&s=10"
+      },
+      {
+        "name": "Tian Tan Buddha (Big Buddha)",
+        "location": "Lantau Island",
+        "description": "A massive bronze statue symbolizing peace and harmony, accessible via cable car.",
+        "image": "https://images.unsplash.com/photo-1558980971-97f50d0fed00?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VGlhbiUyMFRhbiUyMEJ1ZGRoYSUyMChCaWclMjBCdWRkaGEpfGVufDB8MHwwfHx8MA%3D%3D"
+      },
+      {
+        "name": "Temple Street Night Market",
+        "location": "Kowloon",
+        "description": "Bustling street market famous for food stalls, fortune tellers, and souvenirs.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTchtlbPQ2E_NrELogPd4o6Sp2hgHWqH95eh2Y1amh_cW5zZai2nO-3tFT&s=10"
+      }
+    ],
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HCXC0kA_ScB2qR8FIac3DIMhD1vq2-hd0Bc7b9w8ug&s=10",
+      "https://images.unsplash.com/photo-1771233265655-ea04ae2bde41?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VGVtcGxlJTIwU3RyZWV0JTIwTmlnaHQlMjBNYXJrZXR8ZW58MHwwfDB8fHww",
+      "https://images.unsplash.com/photo-1768142730545-3bf93be96c9d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFRlbXBsZSUyMFN0cmVldCUyME5pZ2h0JTIwTWFya2V0fGVufDB8MHwwfHx8MA%3D%3D"
+    ],
+    "festivals": [
+      "Chinese New Year Parade",
+      "Dragon Boat Festival",
+      "Mid-Autumn Festival"
+    ]
+  },
+  {
+    "id": "philippines",
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "coverImage": "https://images.unsplash.com/photo-1532053369071-cf1bf28109be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBoaWxpcHBpbmVzfGVufDB8MHwwfHx8MA%3D%3D",
+    "capital": "Manila",
+    "continent": "Asia",
+    "population": "118 million",
+    "language": "Filipino (Tagalog), English",
+    "currency": "Philippine Peso (PHP)",
+    "bestTime": "November to April",
+    "climate": "Tropical maritime climate with wet and dry seasons",
+    "safety": "Moderate",
+    "description": "The Philippines enchants travelers with its pristine beaches, vibrant festivals, diverse islands, and warm hospitality.",
+    "positivePoints": [
+      "Stunning beaches and islands",
+      "Rich cultural traditions",
+      "Friendly and welcoming people"
+    ],
+    "foods": [
+      "Adobo",
+      "Sinigang",
+      "Lechon"
+    ],
+    "cities": [
+      "Manila",
+      "Cebu",
+      "Davao",
+      "Boracay"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Boracay Island",
+        "location": "Aklan",
+        "description": "World-famous for its powdery white sand beaches and lively nightlife.",
+        "image": "https://images.unsplash.com/photo-1542213493895-edf5b94f5a96?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Qm9yYWNheSUyMElzbGFuZHxlbnwwfDB8MHx8fDA%3D"
+      },
+      {
+        "name": "Chocolate Hills",
+        "location": "Bohol",
+        "description": "Unique geological formations of over 1,000 cone-shaped hills.",
+        "image": "https://d-a990acde-onf1ln.ps1.aircdn.net/wp-content/uploads/al_opt_content/IMAGE/ocarramedia.com/wp-content/uploads/2026/04/chocolate-hills-bohol-panoramic-view-carmen-viewpoint-1024x435.webp.bv_resized_mobile.webp.bv.webp?bv_host=ocarramedia.com"
+      },
+      {
+        "name": "Intramuros",
+        "location": "Manila",
+        "description": "Historic walled city showcasing Spanish colonial architecture and heritage.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfI5LJ_mW4xd5PRksUlFIGzOi19OKZV32cxhR5DVV_g&s=10"
+      }
+    ],
+    "gallery": [  
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqVMyRO9qpxAINYbOMbPF5uuNKVztw9pbZx036dpe4Q&s=10", 
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMgftN0NZyEkM-BwoUr9clHwsMw-6OE3pIfiftYAE4g&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMgQRTMH5npO9tcDHLCcrEzwUDMBoaPbUJ25wp7m1T8w&s=10"
+    ],
+    "festivals": [
+      "Sinulog",
+      "Ati-Atihan",
+      "Pahiyas Festival"
+    ]
+  },
+  {
+    "id": "taiwan",
+    "name": "Taiwan",
+    "flag": "🇹🇼",
+    "coverImage": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Taipei",
+    "continent": "Asia",
+    "population": "23 million",
+    "language": "Mandarin Chinese",
+    "currency": "New Taiwan Dollar (TWD)",
+    "bestTime": "October to April",
+    "climate": "Subtropical in the north, tropical in the south",
+    "safety": "High",
+    "description": "Taiwan blends modern cities, lush mountains, vibrant night markets, and a rich cultural heritage.",
+    "positivePoints": [
+      "Safe and friendly environment",
+      "Delicious street food",
+      "Beautiful natural scenery"
+    ],
+    "foods": [
+      "Beef Noodle Soup",
+      "Bubble Tea",
+      "Xiao Long Bao"
+    ],
+    "cities": [
+      "Taipei",
+      "Kaohsiung",
+      "Taichung",
+      "Tainan"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Taipei 101",
+        "location": "Taipei",
+        "description": "An iconic skyscraper once the tallest in the world, offering panoramic city views.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Taroko Gorge",
+        "location": "Hualien County",
+        "description": "A stunning marble gorge with hiking trails, temples, and dramatic cliffs.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Sun Moon Lake",
+        "location": "Nantou County",
+        "description": "Taiwan’s largest lake, surrounded by mountains and popular for cycling and boat rides.",
+        "image": "https://images.unsplash.com/photo-1524492449090-1a9f3a1a3f2d?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1524492449090-1a9f3a1a3f2d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Lantern Festival",
+      "Dragon Boat Festival",
+      "Ghost Festival"
+    ]
+  },
+  {
+    "id": "ireland",
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "population": "5.3 million",
+    "language": "Irish (Gaelic), English",
+    "currency": "Euro (EUR)",
+    "bestTime": "May to September",
+    "climate": "Temperate maritime climate with mild summers and cool winters",
+    "safety": "High",
+    "description": "Ireland enchants visitors with its rolling green landscapes, rich folklore, historic castles, and lively pub culture.",
+    "positivePoints": [
+      "Beautiful countryside and coastlines",
+      "Friendly and welcoming people",
+      "Deep cultural and literary heritage"
+    ],
+    "foods": [
+      "Irish Stew",
+      "Soda Bread",
+      "Boxty"
+    ],
+    "cities": [
+      "Dublin",
+      "Cork",
+      "Galway",
+      "Limerick"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Cliffs of Moher",
+        "location": "County Clare",
+        "description": "Dramatic sea cliffs offering breathtaking views over the Atlantic Ocean.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Dublin Castle",
+        "location": "Dublin",
+        "description": "A historic castle complex at the heart of Ireland’s capital city.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Ring of Kerry",
+        "location": "County Kerry",
+        "description": "A scenic drive through mountains, lakes, and coastal villages.",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "St. Patrick’s Festival",
+      "Galway Arts Festival",
+      "Dublin Theatre Festival"
+    ]
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "population": "17.5 million",
+    "language": "Dutch",
+    "currency": "Euro (EUR)",
+    "bestTime": "April to October",
+    "climate": "Temperate maritime climate with mild summers and cool winters",
+    "safety": "Very High",
+    "description": "The Netherlands charms visitors with its canals, tulip fields, windmills, and progressive culture.",
+    "positivePoints": [
+      "Efficient transport and cycling culture",
+      "Picturesque canals and architecture",
+      "Rich art and museum scene"
+    ],
+    "foods": [
+      "Stroopwafel",
+      "Herring",
+      "Poffertjes"
+    ],
+    "cities": [
+      "Amsterdam",
+      "Rotterdam",
+      "The Hague",
+      "Utrecht"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Keukenhof Gardens",
+        "location": "Lisse",
+        "description": "World-famous flower gardens showcasing millions of tulips in spring.",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Rijksmuseum",
+        "location": "Amsterdam",
+        "description": "Renowned museum featuring masterpieces by Rembrandt, Vermeer, and other Dutch artists.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Kinderdijk Windmills",
+        "location": "South Holland",
+        "description": "UNESCO World Heritage site with iconic 18th-century windmills.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "King’s Day",
+      "Amsterdam Light Festival",
+      "Dutch Flower Parade"
+    ]
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "coverImage": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "population": "5.9 million",
+    "language": "Danish",
+    "currency": "Danish Krone (DKK)",
+    "bestTime": "May to September",
+    "climate": "Temperate maritime climate with mild summers and cool winters",
+    "safety": "Very High",
+    "description": "Denmark charms visitors with its fairy-tale castles, modern design, cycling culture, and hygge lifestyle.",
+    "positivePoints": [
+      "High quality of life",
+      "Rich Viking and royal history",
+      "Safe and eco-friendly environment"
+    ],
+    "foods": [
+      "Smørrebrød",
+      "Frikadeller",
+      "Æbleskiver"
+    ],
+    "cities": [
+      "Copenhagen",
+      "Aarhus",
+      "Odense",
+      "Aalborg"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Nyhavn",
+        "location": "Copenhagen",
+        "description": "A colorful harbor lined with historic buildings, restaurants, and boats.",
+        "image": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "The Little Mermaid",
+        "location": "Copenhagen",
+        "description": "Iconic bronze statue inspired by Hans Christian Andersen’s fairy tale.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Kronborg Castle",
+        "location": "Helsingør",
+        "description": "UNESCO World Heritage site known as 'Hamlet’s Castle'.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Roskilde Festival",
+      "Copenhagen Jazz Festival",
+      "Aarhus Festival"
+    ]
+  },
+  {
+    "id": "finland",
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "coverImage": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "population": "5.6 million",
+    "language": "Finnish, Swedish",
+    "currency": "Euro (EUR)",
+    "bestTime": "June to August, December for winter activities",
+    "climate": "Cold winters, mild summers; subarctic in the north",
+    "safety": "Very High",
+    "description": "Finland enchants visitors with pristine nature, thousands of lakes, northern lights, and a unique blend of modern design and traditional culture.",
+    "positivePoints": [
+      "High quality of life",
+      "Beautiful natural landscapes",
+      "Safe and eco-friendly environment"
+    ],
+    "foods": [
+      "Karjalanpiirakka (Karelian pasty)",
+      "Salmon Soup",
+      "Rye Bread"
+    ],
+    "cities": [
+      "Helsinki",
+      "Turku",
+      "Tampere",
+      "Rovaniemi"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Santa Claus Village",
+        "location": "Rovaniemi, Lapland",
+        "description": "A magical destination where visitors can meet Santa Claus and cross the Arctic Circle.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Suomenlinna Fortress",
+        "location": "Helsinki",
+        "description": "A UNESCO World Heritage site built on islands, showcasing Finland’s military history.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Northern Lights",
+        "location": "Lapland",
+        "description": "Spectacular aurora borealis displays visible during winter months.",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Vappu",
+      "Helsinki Festival",
+      "Midnight Sun Film Festival"
+    ]
+  },
+  {
+    "id": "russia",
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "coverImage": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Moscow",
+    "continent": "Europe and Asia",
+    "population": "146 million",
+    "language": "Russian",
+    "currency": "Russian Ruble (RUB)",
+    "bestTime": "May to September",
+    "climate": "Varied: continental, subarctic, and polar across regions",
+    "safety": "Moderate",
+    "description": "Russia impresses with its vast landscapes, rich history, iconic architecture, and cultural depth spanning Europe and Asia.",
+    "positivePoints": [
+      "Unique blend of European and Asian culture",
+      "Historic landmarks and museums",
+      "Diverse natural scenery"
+    ],
+    "foods": [
+      "Borscht",
+      "Pelmeni",
+      "Blini"
+    ],
+    "cities": [
+      "Moscow",
+      "Saint Petersburg",
+      "Kazan",
+      "Novosibirsk"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Red Square & Kremlin",
+        "location": "Moscow",
+        "description": "The political and historical heart of Russia, featuring St. Basil’s Cathedral and the Kremlin.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Hermitage Museum",
+        "location": "Saint Petersburg",
+        "description": "One of the world’s largest and oldest museums, housing millions of artworks.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Lake Baikal",
+        "location": "Siberia",
+        "description": "The world’s deepest freshwater lake, known for its unique biodiversity.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Maslenitsa",
+      "White Nights Festival",
+      "Victory Day Parade"
+    ]
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "coverImage": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "population": "10.6 million",
+    "language": "Swedish",
+    "currency": "Swedish Krona (SEK)",
+    "bestTime": "May to September, December for winter activities",
+    "climate": "Temperate in the south, subarctic in the north",
+    "safety": "Very High",
+    "description": "Sweden captivates visitors with its scenic archipelagos, Viking heritage, modern design, and pristine nature.",
+    "positivePoints": [
+      "High quality of life",
+      "Beautiful natural landscapes",
+      "Rich cultural and historical heritage"
+    ],
+    "foods": [
+      "Meatballs",
+      "Gravlax",
+      "Cinnamon Buns"
+    ],
+    "cities": [
+      "Stockholm",
+      "Gothenburg",
+      "Malmö",
+      "Uppsala"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Gamla Stan",
+        "location": "Stockholm",
+        "description": "The old town of Stockholm with cobblestone streets, colorful buildings, and historic charm.",
+        "image": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Vasa Museum",
+        "location": "Stockholm",
+        "description": "A maritime museum housing the 17th-century warship Vasa, preserved after sinking on its maiden voyage.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Icehotel",
+        "location": "Jukkasjärvi, Lapland",
+        "description": "A unique hotel built entirely of ice and snow, rebuilt every winter.",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Midsummer",
+      "Stockholm Pride",
+      "Lucia"
+    ]
+  },
+  {
+    "id": "greece",
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Athens",
+    "continent": "Europe",
+    "population": "10.3 million",
+    "language": "Greek",
+    "currency": "Euro (EUR)",
+    "bestTime": "April to June, September to October",
+    "climate": "Mediterranean with hot, dry summers and mild winters",
+    "safety": "High",
+    "description": "Greece enchants travelers with its ancient ruins, sun-soaked islands, vibrant culture, and world-famous cuisine.",
+    "positivePoints": [
+      "Rich ancient history and mythology",
+      "Beautiful islands and beaches",
+      "Delicious Mediterranean food"
+    ],
+    "foods": [
+      "Moussaka",
+      "Souvlaki",
+      "Baklava"
+    ],
+    "cities": [
+      "Athens",
+      "Thessaloniki",
+      "Santorini",
+      "Mykonos"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Acropolis of Athens",
+        "location": "Athens",
+        "description": "An ancient citadel featuring the Parthenon, symbolizing classical Greek civilization.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Santorini",
+        "location": "Cyclades Islands",
+        "description": "Famous for whitewashed houses, blue-domed churches, and stunning sunsets.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Meteora Monasteries",
+        "location": "Central Greece",
+        "description": "Monasteries perched atop towering rock formations, a UNESCO World Heritage site.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Athens Epidaurus Festival",
+      "Carnival",
+      "Easter Celebrations"
+    ]
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "coverImage": "https://images.unsplash.com/photo-1503437313881-503a91226419?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "population": "47 million",
+    "language": "Spanish (Castilian)",
+    "currency": "Euro (EUR)",
+    "bestTime": "April to June, September to October",
+    "climate": "Mediterranean climate with hot summers and mild winters",
+    "safety": "High",
+    "description": "Spain fascinates travelers with its vibrant culture, historic cities, Mediterranean beaches, and world-famous cuisine.",
+    "positivePoints": [
+      "Rich cultural and artistic heritage",
+      "Delicious Mediterranean food",
+      "Beautiful coastlines and diverse landscapes"
+    ],
+    "foods": [
+      "Paella",
+      "Tapas",
+      "Churros"
+    ],
+    "cities": [
+      "Madrid",
+      "Barcelona",
+      "Seville",
+      "Valencia"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Sagrada Família",
+        "location": "Barcelona",
+        "description": "Gaudí’s masterpiece, a stunning basilica still under construction after more than a century.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Alhambra",
+        "location": "Granada",
+        "description": "A UNESCO World Heritage site showcasing Moorish architecture and gardens.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Park Güell",
+        "location": "Barcelona",
+        "description": "A colorful public park designed by Antoni Gaudí, filled with mosaics and unique structures.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "La Tomatina",
+      "Running of the Bulls",
+      "Seville Feria"
+    ]
+  },
+  {
+    "id": "iceland",
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Reykjavík",
+    "continent": "Europe",
+    "population": "380,000",
+    "language": "Icelandic",
+    "currency": "Icelandic Króna (ISK)",
+    "bestTime": "June to August, February to March for Northern Lights",
+    "climate": "Subarctic and oceanic; cool summers, cold winters",
+    "safety": "Very High",
+    "description": "Iceland mesmerizes travelers with its volcanic landscapes, glaciers, geysers, waterfalls, and the magical northern lights.",
+    "positivePoints": [
+      "Spectacular natural scenery",
+      "Safe and eco-conscious society",
+      "Unique geothermal experiences"
+    ],
+    "foods": [
+      "Skyr",
+      "Lamb Soup",
+      "Plokkfiskur"
+    ],
+    "cities": [
+      "Reykjavík",
+      "Akureyri",
+      "Selfoss",
+      "Egilsstaðir"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Blue Lagoon",
+        "location": "Grindavík",
+        "description": "A famous geothermal spa with milky-blue waters rich in minerals.",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Gullfoss Waterfall",
+        "location": "Golden Circle",
+        "description": "A powerful two-tiered waterfall, one of Iceland’s most iconic natural wonders.",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Thingvellir National Park",
+        "location": "Southwest Iceland",
+        "description": "A UNESCO World Heritage site where tectonic plates meet, rich in history and geology.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Iceland Airwaves",
+      "Reykjavik Arts Festival",
+      "Winter Lights Festival"
+    ]
+  },
+  {
+    "id": "greenland",
+    "name": "Greenland",
+    "flag": "🇬🇱",
+    "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Nuuk",
+    "continent": "North America (Arctic)",
+    "population": "56,000",
+    "language": "Greenlandic (Kalaallisut), Danish",
+    "currency": "Danish Krone (DKK)",
+    "bestTime": "June to September",
+    "climate": "Arctic climate with long, cold winters and short, cool summers",
+    "safety": "High",
+    "description": "Greenland captivates travelers with its vast ice sheets, dramatic fjords, Inuit culture, and opportunities to witness the northern lights.",
+    "positivePoints": [
+      "Unique Arctic landscapes",
+      "Rich Inuit heritage",
+      "Adventure and eco-tourism"
+    ],
+    "foods": [
+      "Suaasat (traditional soup)",
+      "Mattak (whale skin)",
+      "Fish dishes"
+    ],
+    "cities": [
+      "Nuuk",
+      "Ilulissat",
+      "Sisimiut",
+      "Qaqortoq"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Ilulissat Icefjord",
+        "location": "Ilulissat",
+        "description": "A UNESCO World Heritage site featuring massive glaciers and icebergs.",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Nuuk Cathedral",
+        "location": "Nuuk",
+        "description": "A charming red wooden church, symbolizing Greenland’s capital.",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Disko Bay",
+        "location": "West Greenland",
+        "description": "Known for whale watching, icebergs, and stunning Arctic scenery.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "National Day",
+      "Kalaallit Nunaat Festival",
+      "Dogsled Festival"
+    ]
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "coverImage": "https://images.unsplash.com/photo-1503437313881-503a91226419?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "population": "10.3 million",
+    "language": "Portuguese",
+    "currency": "Euro (EUR)",
+    "bestTime": "March to May, September to October",
+    "climate": "Mediterranean with hot, dry summers and mild winters",
+    "safety": "High",
+    "description": "Portugal enchants travelers with its historic cities, golden beaches, vibrant culture, and world-renowned cuisine and wines.",
+    "positivePoints": [
+      "Rich maritime and cultural heritage",
+      "Beautiful coastlines and beaches",
+      "Delicious food and wine"
+    ],
+    "foods": [
+      "Pastéis de Nata",
+      "Bacalhau",
+      "Francesinha"
+    ],
+    "cities": [
+      "Lisbon",
+      "Porto",
+      "Faro",
+      "Coimbra"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Belém Tower",
+        "location": "Lisbon",
+        "description": "A UNESCO World Heritage site symbolizing Portugal’s Age of Discoveries.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Douro Valley",
+        "location": "Northern Portugal",
+        "description": "Famous wine region with scenic vineyards along the Douro River.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Sintra",
+        "location": "Lisbon District",
+        "description": "Picturesque town with colorful palaces, castles, and lush gardens.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Festa de São João",
+      "Carnival",
+      "Festa de Santo António"
+    ]
+  },
+  {
+    "id": "romania",
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "population": "19 million",
+    "language": "Romanian",
+    "currency": "Romanian Leu (RON)",
+    "bestTime": "May to September",
+    "climate": "Temperate continental with hot summers and cold winters",
+    "safety": "High",
+    "description": "Romania enchants visitors with medieval castles, Carpathian mountains, vibrant cities, and folklore tied to Dracula legends.",
+    "positivePoints": [
+      "Rich history and culture",
+      "Beautiful natural landscapes",
+      "Affordable travel destination"
+    ],
+    "foods": [
+      "Sarmale",
+      "Mici",
+      "Ciorbă de burtă"
+    ],
+    "cities": [
+      "Bucharest",
+      "Cluj-Napoca",
+      "Brașov",
+      "Timișoara"
+    ],
+    "touristPlaces": [
+      {
+        "name": "Bran Castle",
+        "location": "Brașov County",
+        "description": "Often associated with the Dracula legend, this medieval fortress is a major tourist attraction.",
+        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Palace of the Parliament",
+        "location": "Bucharest",
+        "description": "One of the largest administrative buildings in the world, showcasing Romania’s modern history.",
+        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      },
+      {
+        "name": "Transfăgărășan Highway",
+        "location": "Carpathian Mountains",
+        "description": "A scenic mountain road famous for its breathtaking views and winding curves.",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+    ],
+    "festivals": [
+      "Untold Festival",
+      "George Enescu Festival",
+      "Sighisoara Medieval Festival"
+    ]
+  }
+]
