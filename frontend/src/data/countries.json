@@ -33,19 +33,19 @@
         "name": "Mount Fuji",
         "location": "Honshu",
         "description": "An iconic volcanic peak that draws hikers and photographers from around the world.",
-        "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1661878091370-4ccb8763756a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bW91bnQlMjBmdWppfGVufDB8MHwwfHx8MA%3D%3D"
       },
       {
         "name": "Fushimi Inari Taisha",
         "location": "Kyoto",
         "description": "A sacred shrine known for its thousands of vermilion torii gates.",
-        "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1539036982489-398455e43248?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnVzaGltaSUyMGluYXJpJTIwdGFpc2hhfGVufDB8MHwwfHx8MA%3D%3D"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=900&q=80",
       "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=900&q=80"
+      "https://images.unsplash.com/photo-1557409518-1b1ad1ac120d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGphcGFufGVufDB8MHwwfHx8MA%3D%3D"
     ],
     "festivals": [
       "Cherry Blossom Festival",
@@ -57,7 +57,7 @@
     "id": "switzerland",
     "name": "Switzerland",
     "flag": "🇨🇭",
-    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF1tXnIohN3yIR1CjD7doe1Dt_TyKfMml_KY4RO_Dv0w&s=10",
     "capital": "Bern",
     "continent": "Europe",
     "population": "8.8 million",
@@ -87,19 +87,19 @@
         "name": "Matterhorn",
         "location": "Valais",
         "description": "One of the most recognizable mountain peaks in the world.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1688327600418-724fa2feb82d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fG1hdHRlcmhvcm58ZW58MHwwfDB8fHww"
       },
       {
         "name": "Lake Lucerne",
         "location": "Lucerne",
         "description": "A postcard-perfect lake surrounded by mountains and charming towns.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO98BLPdVaxTPtf_VBa2E84mBIFmA1cWiN8DalT9SEAQ&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1464822759844-d150baec1b7e?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuwTLvNz27d-84ALQopM1DT05Zi7cJTgTx7MGzNoI8kQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGeVp2ckMB3wXlAQ7zBlDZjNebNsKNY22naYXwdE_BAQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1_KFF_au_fgbX5o4SdA0A6Q9Z02FnCj-4QRxm-rh9g&s=10"
     ],
     "festivals": [
       "Montreux Jazz Festival",
@@ -141,19 +141,19 @@
         "name": "Neuschwanstein Castle",
         "location": "Bavaria",
         "description": "A fairy-tale castle perched above the Bavarian Alps.",
-        "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1580677616212-2fa929e9c2cd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV1c2Nod2Fuc3RlaW4lMjBjYXN0bGV8ZW58MHwwfDB8fHww"
       },
       {
         "name": "Brandenburg Gate",
         "location": "Berlin",
         "description": "A historic landmark representing Germany's storied past and future.",
-        "image": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwbPqt_9zpFh1rKMydEMW9WMVuS9b40_eP3B_BdX6WNg&s=10"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=900&q=80",
       "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-bIxnmcav7EYYViPtcgXpq9N8kvHxksriFI3HoO7mg&s=10"
     ],
     "festivals": [
       "Oktoberfest",
@@ -165,7 +165,7 @@
     "id": "france",
     "name": "France",
     "flag": "🇫🇷",
-    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzY8D3KJOnjlayztaUbt1DRZ86u_D05CdyMRLzEo80Hw&s=10",
     "capital": "Paris",
     "continent": "Europe",
     "population": "68.4 million",
@@ -195,19 +195,19 @@
         "name": "Eiffel Tower",
         "location": "Paris",
         "description": "The Eiffel Tower remains one of the world's most beloved monuments.",
-        "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1569949380643-6e746ecaa3bd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZWlmZmVsJTIwdG93ZXJ8ZW58MHwwfDB8fHww"
       },
       {
         "name": "French Riviera",
         "location": "Nice",
         "description": "A glamorous stretch of coast with crystal-clear water and dramatic views.",
-        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGZ1B-ppr60YK1hTdAdtekc51ttjcAoU0CsZGgzGHJA&s"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0cM35g69cklqDN1dDV8ajtNneGO9x4SOjS6owj1SsEg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GLjRJq_Av5FL0zbzWgFRnfh-cxvYsLk48X-2NjzBLg&s=10"
     ],
     "festivals": [
       "Bastille Day",
@@ -1325,7 +1325,7 @@
     "id": "taiwan",
     "name": "Taiwan",
     "flag": "🇹🇼",
-    "coverImage": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://media.istockphoto.com/id/457951395/photo/kaohsiungs-famous-tourist-attractions.jpg?s=612x612&w=0&k=20&c=N1UelVXnIh-fka0EuZjpNvlYWOxLLULkg362gDmhF3w=",
     "capital": "Taipei",
     "continent": "Asia",
     "population": "23 million",
@@ -1356,25 +1356,25 @@
         "name": "Taipei 101",
         "location": "Taipei",
         "description": "An iconic skyscraper once the tallest in the world, offering panoramic city views.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1661963920742-f5b23a6a1b44?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dGFpcGVpJTIwMTAxfGVufDB8MHwwfHx8MA%3D%3D"
       },
       {
         "name": "Taroko Gorge",
         "location": "Hualien County",
         "description": "A stunning marble gorge with hiking trails, temples, and dramatic cliffs.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1687880583498-73025dbc27db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dGFyb2tvJTIwZ29yZ2V8ZW58MHwwfDB8fHww"
       },
       {
         "name": "Sun Moon Lake",
         "location": "Nantou County",
         "description": "Taiwan’s largest lake, surrounded by mountains and popular for cycling and boat rides.",
-        "image": "https://images.unsplash.com/photo-1524492449090-1a9f3a1a3f2d?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjo7SjiC-fDLiU71wr8bxbAwjUSbg8I7_h19bX1XU3bFwEfqiX1XvgcDI&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1524492449090-1a9f3a1a3f2d?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzzNM_suaYHX4JI8h56eJKsp_t6w5k27S0jErAACPwrw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa7aLs1T35rL92bFHgbpDa069aNZN5Yw7d9w0dPeC86A&s=10",
+      "https://images.unsplash.com/photo-1622179987600-b4c5ed5e973f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHN1biUyMG1vb24lMjBsYWtlfGVufDB8MHwwfHx8MA%3D%3D"
     ],
     "festivals": [
       "Lantern Festival",
@@ -1386,7 +1386,7 @@
     "id": "ireland",
     "name": "Ireland",
     "flag": "🇮🇪",
-    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1621440936352-e4d66287abdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjI2fHxpcmVsYW5kfGVufDB8MHwwfHx8MA%3D%3D",
     "capital": "Dublin",
     "continent": "Europe",
     "population": "5.3 million",
@@ -1417,25 +1417,25 @@
         "name": "Cliffs of Moher",
         "location": "County Clare",
         "description": "Dramatic sea cliffs offering breathtaking views over the Atlantic Ocean.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1588952917149-7ac721bbc1e0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xpZmZzJTIwb2YlMjBtb2hlcnxlbnwwfDB8MHx8fDA%3D"
       },
       {
         "name": "Dublin Castle",
         "location": "Dublin",
         "description": "A historic castle complex at the heart of Ireland’s capital city.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVGfSnrQ9LvozCnoOFaaGK0XDa7st4gJRplvSk8_C_Q&s=10"
       },
       {
         "name": "Ring of Kerry",
         "location": "County Kerry",
         "description": "A scenic drive through mountains, lakes, and coastal villages.",
-        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo1arNgz5qiEeMMGqfxHF_nFvc5kYsSau7gASYe27-ePnv49M6bNpZ6UMj&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1tSvH0pgtIrhDEwG5PaazUVDpegdVlz1z-HIL7oD5g&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNemuaDIgQCNLRzQqWOtdrvEjiZq-lm1he4q8J4euRA&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_QcyyX9mi0lFqWxmXK9pHuydEIeAkAZGjf5ptZA7lfg&s=10"
     ],
     "festivals": [
       "St. Patrick’s Festival",
@@ -1447,7 +1447,7 @@
     "id": "netherlands",
     "name": "Netherlands",
     "flag": "🇳🇱",
-    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1611440052868-58b551b07e2c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGFtc3RlcmRhbXxlbnwwfDB8MHx8fDA%3D",
     "capital": "Amsterdam",
     "continent": "Europe",
     "population": "17.5 million",
@@ -1478,25 +1478,25 @@
         "name": "Keukenhof Gardens",
         "location": "Lisse",
         "description": "World-famous flower gardens showcasing millions of tulips in spring.",
-        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZLspCicrgAKWzH14pin9p8JUU3m1FdWsMPlbT-XjQw&s=10"
       },
       {
         "name": "Rijksmuseum",
         "location": "Amsterdam",
         "description": "Renowned museum featuring masterpieces by Rembrandt, Vermeer, and other Dutch artists.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1615829358109-8187aa2a0856?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmlqa3NtdXNldW18ZW58MHwwfDB8fHww"
       },
       {
         "name": "Kinderdijk Windmills",
         "location": "South Holland",
         "description": "UNESCO World Heritage site with iconic 18th-century windmills.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1661963499773-0b913fa92834?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8S2luZGVyZGlqayUyMFdpbmRtaWxsc3xlbnwwfDB8MHx8fDA%3D"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      "https://images.unsplash.com/photo-1558082552-aa0d6f361ae8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fGFtc3RlcmRhbXxlbnwwfDB8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1603917817377-ee53733f5be8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG5ldGhlcmxhbmRzfGVufDB8MHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1604611266776-49dcc7a2b5e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fG5ldGhlcmxhbmRzfGVufDB8MHwwfHx8MA%3D%3D"
     ],
     "festivals": [
       "King’s Day",
@@ -1508,7 +1508,7 @@
     "id": "denmark",
     "name": "Denmark",
     "flag": "🇩🇰",
-    "coverImage": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1673018335176-cc32c0fd68c8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGRlbm1hcmt8ZW58MHwwfDB8fHww",
     "capital": "Copenhagen",
     "continent": "Europe",
     "population": "5.9 million",
@@ -1539,25 +1539,25 @@
         "name": "Nyhavn",
         "location": "Copenhagen",
         "description": "A colorful harbor lined with historic buildings, restaurants, and boats.",
-        "image": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1634237313874-bd396e96898e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bnloYXZufGVufDB8MHwwfHx8MA%3D%3D"
       },
       {
         "name": "The Little Mermaid",
         "location": "Copenhagen",
         "description": "Iconic bronze statue inspired by Hans Christian Andersen’s fairy tale.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMkatIjLOJNKCQ140eXxjP2Gm1hYWmY40u6bzkX8jHw&s=10"
       },
       {
         "name": "Kronborg Castle",
         "location": "Helsingør",
         "description": "UNESCO World Heritage site known as 'Hamlet’s Castle'.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwT-KuFuaGMuupIjRKF1c1DpYKziNWvq3nJxlxdfPlw&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBQLD5FAgXAXs7h05afTO5OWpnmQNr3e68cL9pEJlmQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsRDVGizOvnaW1xsv2odDvD6UMkBJ9N8mzm65J_UPzQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfct5GLCfCJ4CmalzpAuCWRlyV3TraFi03-GEs5CD1KQ&s=10"
     ],
     "festivals": [
       "Roskilde Festival",
@@ -1569,7 +1569,7 @@
     "id": "finland",
     "name": "Finland",
     "flag": "🇫🇮",
-    "coverImage": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wknoLc3mZGS7kLEoXaKcFpNmEyQKfaAckEUL1vqm3A&s=10",
     "capital": "Helsinki",
     "continent": "Europe",
     "population": "5.6 million",
@@ -1600,25 +1600,25 @@
         "name": "Santa Claus Village",
         "location": "Rovaniemi, Lapland",
         "description": "A magical destination where visitors can meet Santa Claus and cross the Arctic Circle.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1675607105383-b898c4b15049?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2FudGElMjBDbGF1cyUyMFZpbGxhZ2V8ZW58MHwwfDB8fHww"
       },
       {
         "name": "Suomenlinna Fortress",
         "location": "Helsinki",
         "description": "A UNESCO World Heritage site built on islands, showcasing Finland’s military history.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV33HhYSCx2CLQ84GzGuNqztgGJQbsBmcTAg_R-G2f9Q&s=10"
       },
       {
         "name": "Northern Lights",
         "location": "Lapland",
         "description": "Spectacular aurora borealis displays visible during winter months.",
-        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1675805015838-7f8b70536f0f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bm9ydGhlcm4lMjBsaWdodHN8ZW58MHwwfDB8fHww"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMVlOd65kJp8Ky0JD8__C8F3O0e04alE5qL3v96P9Xw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFmu_JWPk7DYABr4FNERDZ79eEXEv0J1cR5PjrRfylg&s=10",
+      "https://images.unsplash.com/photo-1765853301989-a9b0ad2ac0f1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFNhbnRhJTIwQ2xhdXMlMjBWaWxsYWdlfGVufDB8MHwwfHx8MA%3D%3D"
     ],
     "festivals": [
       "Vappu",
@@ -1630,7 +1630,7 @@
     "id": "russia",
     "name": "Russia",
     "flag": "🇷🇺",
-    "coverImage": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1547448415-e9f5b28e570d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cnVzc2lhfGVufDB8MHwwfHx8MA%3D%3D",
     "capital": "Moscow",
     "continent": "Europe and Asia",
     "population": "146 million",
@@ -1661,25 +1661,25 @@
         "name": "Red Square & Kremlin",
         "location": "Moscow",
         "description": "The political and historical heart of Russia, featuring St. Basil’s Cathedral and the Kremlin.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToC5Mf7X4IwDkOm1l-16POsV_AWxKR2yZdy6DfH3T1eA&s=10"
       },
       {
         "name": "Hermitage Museum",
         "location": "Saint Petersburg",
         "description": "One of the world’s largest and oldest museums, housing millions of artworks.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTTbQ7RBlTUPCt4_dMOUMbPKpXysau_1do5gaVBuvpg&s=10"
       },
       {
         "name": "Lake Baikal",
         "location": "Siberia",
         "description": "The world’s deepest freshwater lake, known for its unique biodiversity.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1501675423372-9bfa95849e62?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxha2UlMjBiYWlrYWx8ZW58MHwwfDB8fHww"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      "https://images.unsplash.com/photo-1521815049196-8a76f26a2135?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJ1c3NpYXxlbnwwfDB8MHx8fDA%3D",
+      "https://plus.unsplash.com/premium_photo-1697729923597-13ac2cce0ab7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHJ1c3NpYXxlbnwwfDB8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1585321545970-e28285cda232?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fHJ1c3NpYXxlbnwwfDB8MHx8fDA%3D"
     ],
     "festivals": [
       "Maslenitsa",
@@ -1691,7 +1691,7 @@
     "id": "sweden",
     "name": "Sweden",
     "flag": "🇸🇪",
-    "coverImage": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ziCYyNxkoM_t_FzzrDeDNafQh8iAw3qaW5G8-fSdLg&s=10",
     "capital": "Stockholm",
     "continent": "Europe",
     "population": "10.6 million",
@@ -1722,24 +1722,24 @@
         "name": "Gamla Stan",
         "location": "Stockholm",
         "description": "The old town of Stockholm with cobblestone streets, colorful buildings, and historic charm.",
-        "image": "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1581621553615-d84ba5d63f4a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGdhbWxhJTIwc3RhbnxlbnwwfDB8MHx8fDA%3D"
       },
       {
         "name": "Vasa Museum",
         "location": "Stockholm",
         "description": "A maritime museum housing the 17th-century warship Vasa, preserved after sinking on its maiden voyage.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDkxjLyQgwUaadJXDkt2XGOOBOFUKSl4a0PuAVbM1Rg&s=10"
       },
       {
         "name": "Icehotel",
         "location": "Jukkasjärvi, Lapland",
         "description": "A unique hotel built entirely of ice and snow, rebuilt every winter.",
-        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA11fwBVs1uAeyHpJQkaRS6C_sOlRRuj-gvbxtV7qZhwICvh8PV-BuNfY&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1502786129293-79981df4e689?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpP8hcvMclbPOJMhcjm1JEXy3hOy_oV6gsS-ayVHW4Uw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Mwy7_jeiRXchtekh9mFQxkP8TGgEMi-B16ETye-iaA&s=10",
       "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
     ],
     "festivals": [
@@ -1752,7 +1752,7 @@
     "id": "greece",
     "name": "Greece",
     "flag": "🇬🇷",
-    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LESS_chEUGTB4R5uiFaT45Xygt0axP8ipQI2AgG2E6KukNwPDcd8-hw&s=10",
     "capital": "Athens",
     "continent": "Europe",
     "population": "10.3 million",
@@ -1783,25 +1783,25 @@
         "name": "Acropolis of Athens",
         "location": "Athens",
         "description": "An ancient citadel featuring the Parthenon, symbolizing classical Greek civilization.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1603565816030-6b389eeb23cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWNyb3BvbGlzJTIwb2YlMjBhdGhlbnN8ZW58MHwwfDB8fHww"
       },
       {
         "name": "Santorini",
         "location": "Cyclades Islands",
         "description": "Famous for whitewashed houses, blue-domed churches, and stunning sunsets.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FudG9yaW5pfGVufDB8MHwwfHx8MA%3D%3D"
       },
       {
         "name": "Meteora Monasteries",
         "location": "Central Greece",
         "description": "Monasteries perched atop towering rock formations, a UNESCO World Heritage site.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1661962707619-e6ca73038eca?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fG1ldGVvcmElMjBtb25hc3Rlcmllc3xlbnwwfDB8MHx8fDA%3D"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      "https://images.unsplash.com/photo-1601581875039-e899893d520c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdyZWVjZXxlbnwwfDB8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1613538384222-cd71e8488d7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fGdyZWVjZXxlbnwwfDB8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1620050248206-f5c11bd7f1f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fGdyZWVjZXxlbnwwfDB8MHx8fDA%3D"
     ],
     "festivals": [
       "Athens Epidaurus Festival",
@@ -1813,7 +1813,7 @@
     "id": "spain",
     "name": "Spain",
     "flag": "🇪🇸",
-    "coverImage": "https://images.unsplash.com/photo-1503437313881-503a91226419?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1578912996078-305d92249aa6?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "capital": "Madrid",
     "continent": "Europe",
     "population": "47 million",
@@ -1844,25 +1844,25 @@
         "name": "Sagrada Família",
         "location": "Barcelona",
         "description": "Gaudí’s masterpiece, a stunning basilica still under construction after more than a century.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://plus.unsplash.com/premium_photo-1702598969295-71b202296f7d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2FncmFkYSUyMGZhbSVDMyVBRGxpYXxlbnwwfDB8MHx8fDA%3D"
       },
       {
         "name": "Alhambra",
         "location": "Granada",
         "description": "A UNESCO World Heritage site showcasing Moorish architecture and gardens.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzVIiv5IHW4yVflonTSPaLFC3ukeZwD85Z5aJs41y1Ww&s=10"
       },
       {
         "name": "Park Güell",
         "location": "Barcelona",
         "description": "A colorful public park designed by Antoni Gaudí, filled with mosaics and unique structures.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://pohcdn.com/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/Park-Guell.jpg"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3Nz24Vdfzkj-WBkIch2rueYpPrUdzLhB_VuYkMvthQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiaUg8MPxCGR61U72ViryCpXZYpTH4_ZI2mba9cYqRw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3Zf2-vdbf-dHyfvaYFzcQPOZNP9XzCKLlO1EunneGg&s=10"
     ],
     "festivals": [
       "La Tomatina",
@@ -1874,7 +1874,7 @@
     "id": "iceland",
     "name": "Iceland",
     "flag": "🇮🇸",
-    "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1xdqm9mSfki20lX8bw4SyHPb0ypVFimP2tH9WMkLFg6WA4A0DXye4mQ4G&s=10",
     "capital": "Reykjavík",
     "continent": "Europe",
     "population": "380,000",
@@ -1905,25 +1905,25 @@
         "name": "Blue Lagoon",
         "location": "Grindavík",
         "description": "A famous geothermal spa with milky-blue waters rich in minerals.",
-        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QTdH-1p-ZQTi5BrwEySU-6vnJwK49bEnUfMEjpjN3Q&s=10"
       },
       {
         "name": "Gullfoss Waterfall",
         "location": "Golden Circle",
         "description": "A powerful two-tiered waterfall, one of Iceland’s most iconic natural wonders.",
-        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL2N6P1zaSxzjcVZtkffmRn3JwNc7EAiQ4uTOzU40__g&s=10"
       },
       {
         "name": "Thingvellir National Park",
         "location": "Southwest Iceland",
         "description": "A UNESCO World Heritage site where tectonic plates meet, rich in history and geology.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuo-kFULsVud3iDIahpxxxDn2ZP6dVqmxlLwLJpKHVg&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh0rKymQuTYY2VmEsqSll-10l63Wni06UVfXr8WtKrDA&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjduHvFkmWye6hvSyuu5nShYdsRSaj4Q3WGPTQomhKg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRIZ_b-XygQOczxAbLVS1AzYSdTEmzGBAdkat7lBt-fg&s=10"
     ],
     "festivals": [
       "Iceland Airwaves",
@@ -1935,7 +1935,7 @@
     "id": "greenland",
     "name": "Greenland",
     "flag": "🇬🇱",
-    "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1537267013710-d7b37fa331b3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JlZW5sYW5kfGVufDB8MHwwfHx8MA%3D%3D",
     "capital": "Nuuk",
     "continent": "North America (Arctic)",
     "population": "56,000",
@@ -1966,25 +1966,25 @@
         "name": "Ilulissat Icefjord",
         "location": "Ilulissat",
         "description": "A UNESCO World Heritage site featuring massive glaciers and icebergs.",
-        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_JGJBsH8pJTwPYakRBkxq_SGiIPXa-t-En1PL_bPLA&s=10"
       },
       {
         "name": "Nuuk Cathedral",
         "location": "Nuuk",
         "description": "A charming red wooden church, symbolizing Greenland’s capital.",
-        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5vvTmImCnJLYEv29rdarXD-kMuLuF55ABMR3dDMG2g&s=10"
       },
       {
         "name": "Disko Bay",
         "location": "West Greenland",
         "description": "Known for whale watching, icebergs, and stunning Arctic scenery.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eJHFUjQS9qHqN95z8f__exNG9EJYRKB4yQWac_NkBw&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnziRkUVOdS9fM_LJBGSvB8j9EkaeqE1iupO9GEIiQIw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI0sybkDlmauFDXmfQGsMUDbDWmvGwFoDqKU7JnkQnQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZeh5Ed0bivMUBTt3ApI2_ziSxGqVnv414OgOVLUTWzw&s=10"
     ],
     "festivals": [
       "National Day",
@@ -1996,7 +1996,7 @@
     "id": "portugal",
     "name": "Portugal",
     "flag": "🇵🇹",
-    "coverImage": "https://images.unsplash.com/photo-1503437313881-503a91226419?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1585334954347-e50fe83cc6ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fHBvcnR1Z2FsfGVufDB8MHwwfHx8MA%3D%3D",
     "capital": "Lisbon",
     "continent": "Europe",
     "population": "10.3 million",
@@ -2027,25 +2027,25 @@
         "name": "Belém Tower",
         "location": "Lisbon",
         "description": "A UNESCO World Heritage site symbolizing Portugal’s Age of Discoveries.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1697394491822-03097d89c898?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmVsJUMzJUE5bSUyMHRvd2VyfGVufDB8MHwwfHx8MA%3D%3D"
       },
       {
         "name": "Douro Valley",
         "location": "Northern Portugal",
         "description": "Famous wine region with scenic vineyards along the Douro River.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKCn-jOin5YeKjLIHDPEaVITjDTTLqxrKbaBSmVeKyA&s=10"
       },
       {
         "name": "Sintra",
         "location": "Lisbon District",
         "description": "Picturesque town with colorful palaces, castles, and lush gardens.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://images.unsplash.com/photo-1662506254404-e8ee655d491a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2ludHJhfGVufDB8MHwwfHx8MA%3D%3D"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfg-UBPLAZnZBGTl9kbCNTdy6m1GF8QotsQsPB3fhZw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatZje9q6EqT7S0oV8iq43cqln6vuaeQksXtedrMNdaw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLv3NfLVV-4sLPLZlmHoq3HoyCuH8uiDloU_6B8LTDGg&s=10"
     ],
     "festivals": [
       "Festa de São João",
@@ -2057,7 +2057,7 @@
     "id": "romania",
     "name": "Romania",
     "flag": "🇷🇴",
-    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60c2IviO0giA6NLoP66BLHu4JNLMXJwasnGFgfDGULg&s=10",
     "capital": "Bucharest",
     "continent": "Europe",
     "population": "19 million",
@@ -2088,30 +2088,153 @@
         "name": "Bran Castle",
         "location": "Brașov County",
         "description": "Often associated with the Dracula legend, this medieval fortress is a major tourist attraction.",
-        "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLqHG-CItC0V845Q7nj6SgHUcv-pBv6ubm1CS925NSA&s=10"
       },
       {
         "name": "Palace of the Parliament",
         "location": "Bucharest",
         "description": "One of the largest administrative buildings in the world, showcasing Romania’s modern history.",
-        "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWQ6iwXXksFlotraeqFMuBKX4JEQEHGeSQYMA-QjXRsQ&s=10"
       },
       {
         "name": "Transfăgărășan Highway",
         "location": "Carpathian Mountains",
         "description": "A scenic mountain road famous for its breathtaking views and winding curves.",
-        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQ02QhjKBAuts1KeluwoE51831S6iLrrc5n0fUuXQLA&s=10"
       }
     ],
     "gallery": [
-      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=900&q=80",
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+      "https://plus.unsplash.com/premium_photo-1661936340711-8b2300d5f063?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHJvbWFuaWF8ZW58MHwwfDB8fHww",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVZAa9M4VUyAl4IaUMWWJHkcN5zI_4eOF-JO0zCYoKsA&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5W7E6S3GjdtAEfnpN5ChUBlmZ-mL3JuT86KR-1FHaNw&s=10"
     ],
     "festivals": [
       "Untold Festival",
       "George Enescu Festival",
       "Sighisoara Medieval Festival"
     ]
-  }
+  },
+  {
+  "id": "china",
+  "name": "China",
+  "flag": "🇨🇳",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gd5IQAPTnwDiXRDWH7ilKJIi3rXNA3yhbvYIklQO0w&s=10",
+  "capital": "Beijing",
+  "continent": "Asia",
+  "population": "1.4 billion",
+  "language": "Mandarin Chinese",
+  "currency": "Chinese Yuan (CNY)",
+  "bestTime": "April to October",
+  "climate": "Varied: temperate, subtropical, and arid across regions",
+  "safety": "Moderate",
+  "description": "China fascinates travelers with its ancient civilization, breathtaking landscapes, modern cities, and rich cultural traditions.",
+  "positivePoints": [
+    "Blend of ancient and modern culture",
+    "World-famous landmarks",
+    "Diverse cuisine and traditions"
+  ],
+  "foods": [
+    "Peking Duck",
+    "Dim Sum",
+    "Hot Pot"
+  ],
+  "cities": [
+    "Beijing",
+    "Shanghai",
+    "Xi’an",
+    "Guangzhou"
+  ],
+  "touristPlaces": [
+    {
+      "name": "Great Wall of China",
+      "location": "Beijing region",
+      "description": "An iconic ancient fortification stretching thousands of kilometers across northern China.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_IJGTfskJyw2S6He3ZPu1fy8QlspXSRVOU7RVcED7A&s=10"
+    },
+    {
+      "name": "Terracotta Army",
+      "location": "Xi’an",
+      "description": "A vast collection of life-sized clay soldiers guarding the tomb of China’s first emperor.",
+      "image": "https://images.unsplash.com/photo-1648726444582-6d108b5d13dc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGVycmFjb3R0YSUyMGFybXl8ZW58MHwwfDB8fHww"
+    },
+    {
+      "name": "The Bund",
+      "location": "Shanghai",
+      "description": "A famous waterfront area showcasing colonial architecture and modern skyscrapers.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1aiEgv-RXH2VpwU46q7OcVSYAhsqMSVIFO4Va59_Ng&s=10"
+    }
+  ],
+  "gallery": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScjOcsxAP_MQ5x-DKBUSSASqVIATWgJmgcVALQio1YA&s=10",
+    "https://images.unsplash.com/photo-1510001618818-4b4e3d86bf0f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNoaW5hfGVufDB8MHwwfHx8MA%3D%3D",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5S2tSkxPYP2Ji3hXCRTQiaPPk5RnanyPj0HGrkm9Dqg&s=10"
+  ],
+  "festivals": [
+    "Chinese New Year",
+    "Mid-Autumn Festival",
+    "Dragon Boat Festival"
+  ]
+},
+{
+  "id": "usa",
+  "name": "United States of America",
+  "flag": "🇺🇸",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgfPBwmPac8EfPfJUxW2n6lu6pY1JoOxKkoXxnMspwQ&s=10",
+  "capital": "Washington, D.C.",
+  "continent": "North America",
+  "population": "334 million",
+  "language": "English",
+  "currency": "United States Dollar (USD)",
+  "bestTime": "April to October",
+  "climate": "Varied: temperate, arid, tropical, and polar across regions",
+  "safety": "High to Moderate depending on region",
+  "description": "The United States offers a dynamic mix of modern cities, natural wonders, cultural diversity, and historic landmarks across 50 states.",
+  "positivePoints": [
+    "Wide variety of landscapes and climates",
+    "Global cultural and entertainment hub",
+    "Rich history and innovation"
+  ],
+  "foods": [
+    "Hamburger",
+    "Barbecue",
+    "Apple Pie"
+  ],
+  "cities": [
+    "New York City",
+    "Los Angeles",
+    "Chicago",
+    "San Francisco"
+  ],
+  "touristPlaces": [
+    {
+      "name": "Statue of Liberty",
+      "location": "New York City",
+      "description": "A symbol of freedom and democracy, welcoming visitors to the U.S. since 1886.",
+      "image": "https://images.unsplash.com/photo-1699689940779-4624e64a31a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fHN0YXR1ZSUyMG9mJTIwbGliZXJ0eXxlbnwwfDB8MHx8fDA%3D"
+    },
+    {
+      "name": "Grand Canyon",
+      "location": "Arizona",
+      "description": "A breathtaking natural wonder carved by the Colorado River.",
+      "image": "https://images.unsplash.com/photo-1534868489953-ef37c20abb25?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Z3JhbmQlMjBjYW55b258ZW58MHwwfDB8fHww"
+    },
+    {
+      "name": "Golden Gate Bridge",
+      "location": "San Francisco",
+      "description": "An iconic suspension bridge connecting San Francisco to Marin County.",
+      "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=600&auto=format&fit=crop&q=60"
+    }
+  ],
+  "gallery": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_acTA7JByk1YdO_X0DtfuuqKNzPcya2hCPy74VXK-Kg&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNgXt25fX-JCSeXEwzA9eHrj2aXZnaIsUllzzz0haXg&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROJunEHwcwC0fuBoPuXPJBROLjMD0bDf_GPmsTd8igxg&s=10"
+  ],
+  "festivals": [
+    "Independence Day (July 4)",
+    "Thanksgiving",
+    "Mardi Gras"
+  ]
+}
+
 ]

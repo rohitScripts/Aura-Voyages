@@ -13,10 +13,21 @@ const PORT = process.env.PORT || 4000
 const allowedOrigins = [
   'http://localhost:5173',
   'http://127.0.0.1:5173',
-  'http://10.29.191.64:5173'
+  'http://0.0.0.0:5173',
+  'http://10.29.191.64:5173',
 ]
 
-app.use(cors({ origin: allowedOrigins, credentials: true }))
+app.use(
+  cors({
+    origin: (origin, callback) => {
+      if (!origin) return callback(null, true)
+      if (allowedOrigins.includes(origin)) return callback(null, true)
+      const isLocalDevHost = /^https?:\/\/(localhost|127\.0\.0\.1|0\.0\.0\.0|10\.|192\.168\.)/i.test(origin)
+      return isLocalDevHost ? callback(null, true) : callback(new Error('Not allowed by CORS'))
+    },
+    credentials: true,
+  })
+)
 app.use(express.json())
 
 connectDB()

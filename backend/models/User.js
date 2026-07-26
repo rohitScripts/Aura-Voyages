@@ -21,5 +21,5 @@ const UserSchema = new mongoose.Schema({
   activity: { type: [ActivityItemSchema], default: [] },
 }, { timestamps: true })
 
-const User = mongoose.model('User', UserSchema)
+const User = mongoose.model('User', UserSchema, 'first')
 export default User
