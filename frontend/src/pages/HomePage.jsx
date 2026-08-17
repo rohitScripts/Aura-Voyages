@@ -32,7 +32,7 @@ export default function HomePage() {
             Explore the world through beautifully crafted country stories.
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-8 text-slate-600">
-            Discover iconic destinations, local culture, and unforgettable attractions with World Explorer.
+            Discover iconic destinations, local culture, and unforgettable attractions with Aura Voyages.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Button to="/countries">Start exploring <ArrowRight className="ml-2 h-4 w-4" /></Button>
@@ -120,7 +120,7 @@ export default function HomePage() {
         <div className="rounded-[36px] bg-slate-900 px-8 py-12 text-white shadow-[0_30px_90px_-35px_rgba(15,23,42,0.75)] sm:px-10 lg:flex lg:items-center lg:justify-between">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.3em] text-sky-300">Ready to begin?</p>
-            <h2 className="mt-3 text-3xl font-semibold">Plan your next trip with World Explorer.</h2>
+            <h2 className="mt-3 text-3xl font-semibold">Plan your next trip with Aura Voyages.</h2>
             <p className="mt-4 max-w-2xl text-slate-300">Browse the full country catalog and start designing your next escape.</p>
           </div>
           <div className="mt-6 lg:mt-0">

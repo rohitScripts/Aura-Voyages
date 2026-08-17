@@ -8,10 +8,10 @@ export default function AboutPage() {
       <section className="overflow-hidden rounded-[40px] border border-slate-200 bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 text-white shadow-[0_30px_90px_-35px_rgba(15,23,42,0.65)]">
         <div className="grid gap-8 px-8 py-16 sm:px-10 lg:grid-cols-[1.1fr_0.9fr] lg:px-16 lg:py-20">
           <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-sky-300">About World Explorer</p>
+            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-sky-300">About Aura Voyages</p>
             <h1 className="mt-4 text-4xl font-semibold tracking-tight sm:text-5xl">A calm, modern way to discover the world.</h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-              World Explorer is a Phase 1 travel experience focused on helping curious travelers browse countries, understand what makes them special, and discover standout attractions.
+              Aura Voyages is a Phase 1 travel experience focused on helping curious travelers browse countries, understand what makes them special, and discover standout attractions.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Button to="/countries" className="bg-white text-slate-900 hover:bg-slate-100 "style={{ backgroundColor: 'black' }}>Browse countries</Button>

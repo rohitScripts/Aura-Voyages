@@ -33,7 +33,7 @@ router.post('/signup', async (req, res, next) => {
       name: name.trim(),
       email: email.toLowerCase().trim(),
       passwordHash,
-      activity: [{ text: 'Joined World Explorer', timestamp: new Date() }],
+      activity: [{ text: 'Joined Aura Voyages', timestamp: new Date() }],
     })
 
     const token = createToken(user)

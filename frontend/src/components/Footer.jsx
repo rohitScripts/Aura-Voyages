@@ -10,7 +10,7 @@ export default function Footer() {
               <Compass className="h-5 w-5" />
             </div>
             <div>
-              <p className="text-lg font-semibold text-white">World Explorer</p>
+              <p className="text-lg font-semibold text-white">Aura Voyages</p>
               <p className="text-sm text-slate-400">Travel inspiration, reimagined.</p>
             </div>
           </div>

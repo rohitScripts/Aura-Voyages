@@ -7,6 +7,7 @@ const links = [
   { to: '/', label: 'Home' },
   { to: '/countries', label: 'Countries' },
   { to: '/about', label: 'About' },
+  { to: '/feedback', label: 'Feedback' },
 ]
 
 export default function Navbar() {
@@ -21,7 +22,7 @@ export default function Navbar() {
             <Compass className="h-5 w-5" />
           </div>
           <div>
-            <p className="text-lg font-semibold text-slate-900">World Explorer</p>
+            <p className="text-lg font-semibold text-slate-900">Aura Voyages</p>
             <p className="text-sm text-slate-500">Discover the world</p>
           </div>
         </Link>

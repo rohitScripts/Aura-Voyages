@@ -3,12 +3,19 @@ import cors from 'cors'
 import dotenv from 'dotenv'
 import authRoutes from './routes/auth.js'
 import userRoutes from './routes/user.js'
+import feedbackRoutes from './routes/feedback.js'
 import { connectDB } from './config/db.js'
 
 dotenv.config()
 
 const app = express()
 const PORT = process.env.PORT || 4000
+
+// Simple request logger for debugging
+app.use((req, res, next) => {
+  console.log('Incoming request:', req.method, req.originalUrl, 'from', req.headers.origin || req.ip)
+  next()
+})
 
 const allowedOrigins = [
   'http://localhost:5173',
@@ -34,6 +41,7 @@ connectDB()
 
 app.use('/api/auth', authRoutes)
 app.use('/api/users', userRoutes)
+app.use('/api/feedback', feedbackRoutes)
 
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok' })

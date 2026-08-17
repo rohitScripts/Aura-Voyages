@@ -16,6 +16,7 @@ import ProfilePage from './pages/ProfilePage'
 import FavoritesPage from './pages/FavoritesPage'
 import WishlistPage from './pages/WishlistPage'
 import VisitedPage from './pages/VisitedPage'
+import FeedbackPage from './pages/FeedbackPage'
 import NotFoundPage from './pages/NotFoundPage'
 
 function AppRoutes() {
@@ -43,6 +44,7 @@ function AppRoutes() {
           <Route path="/favorites" element={<ProtectedRoute><FavoritesPage /></ProtectedRoute>} />
           <Route path="/wishlist" element={<ProtectedRoute><WishlistPage /></ProtectedRoute>} />
           <Route path="/visited" element={<ProtectedRoute><VisitedPage /></ProtectedRoute>} />
+          <Route path="/feedback" element={<FeedbackPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </motion.div>
