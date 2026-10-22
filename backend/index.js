@@ -1,10 +1,10 @@
 import express from 'express'
 import cors from 'cors'
 import dotenv from 'dotenv'
-import authRoutes from './routes/auth.js'
-import userRoutes from './routes/user.js'
-import feedbackRoutes from './routes/feedback.js'
-import { connectDB } from './config/db.js'
+import authRoutes from './src/routes/auth.js'
+import userRoutes from './src/routes/user.js'
+import feedbackRoutes from './src/routes/feedback.js'
+import { connectDB } from './src/config/db.js'
 
 dotenv.config()
 

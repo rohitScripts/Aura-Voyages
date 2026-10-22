@@ -44,6 +44,7 @@ router.post('/signup', async (req, res, next) => {
 })
 
 router.post('/login', async (req, res, next) => {
+  console.log("Request body:", req.body);
   try {
     const { email, password } = req.body
     if (!email || !password) {
